@@ -3,13 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Science in University of Technology**
 
-- 👨‍💻 All of my projects are available at [To be announced](To be announced)
-
-- 📝 I regularly write articles on [To be announced](To be announced)
-
 - 📫 How to reach me **andrew.viquang@gmail.com**
-
-- 📄 Know about my experiences [To be announced](To be announced)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
