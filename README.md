@@ -56,11 +56,11 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>	
 
-<h2 align="left">Here are some of my statistics: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h3>
+<h2 align="left">My Github stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewquang512&show_icons=true&locale=en&layout=compact" alt="andrewquang512" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=andrewquang512&show_icons=true&locale=en" alt="andrewquang512" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewquang512&" alt="andrewquang512" /></p>
 
-
+<h2 align="left">Here are some of my projects: <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
