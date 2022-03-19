@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm AndrewQuang</h1>
 <h3 align="center">A passionate full-stack developer who eager to learn everything from Viet Nam</h3>
 <div align="center">
-<img width="100%" height = "500px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "500px" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="cover" />
 </div>
 
 <img src="https://api.daily.dev/devcards/bc0eba0dadb948408deb1a099be3c3ec.png?r=hlx" width="25%" align="right" alt="AndrewQuang's Dev Card"/>
