@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm AndrewQuang</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px>, I'm AndrewQuang</h1>
 <h3 align="center">A passionate full-stack developer who eager to learn everything from Viet Nam</h3>
 <div align="center">
 <img width="100%" height = "500px" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="cover" />
