@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px>, I'm AndrewQuang</h1>
+<h1 align="center">Hi, I'm AndrewQuang</h1>
 <h3 align="center">A passionate full-stack developer who eager to learn everything from Viet Nam</h3>
 <div align="center">
 <img width="100%" height = "500px" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="cover" />
@@ -16,7 +16,7 @@
 
 
 
-<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2 align="left">Connect with me: ></h2>
 <p align="left">
 <a href="https://linkedin.com/in/andrew quang" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andrew quang" />
@@ -33,7 +33,7 @@
 </p>
 
 
-<h2 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h2 align="left">Languages and Tools: </h2>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -56,11 +56,11 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>	
 
-<h2 align="left">My Github stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'></h3>
+<h2 align="left">My Github stats:</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewquang512&show_icons=true&locale=en&layout=compact" alt="andrewquang512" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=andrewquang512&show_icons=true&locale=en" alt="andrewquang512" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewquang512&" alt="andrewquang512" /></p>
 
-<h2 align="left">Here are some of my projects: <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<h2 align="left">Here are some of my projects: </h2>
