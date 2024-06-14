@@ -6,6 +6,8 @@
 <br>
 
 <br>
+<p>
+  
 -  🌱 I love to research everything about science
 
 -  📫 How to reach me **andrew.viquang@gmail.com** <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="andrew quang" />
@@ -13,6 +15,8 @@
 -  👯 I’m looking to collaborate on Projects,Tech Articles 
 
 - ✍ I'm also a blogger who love to write and share what i've learned to everyone. Check out my blog: [Viblo](https://viblo.asia/u/viquang) or [Medium](https://medium.com/@andrew.viquang)
+  
+</p>
 <br>
 <br>
 <br>
