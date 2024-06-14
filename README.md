@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Vi Quang </h1>
 <h3 align="center">A passionate full-stack developer who eager to learn everything from Viet Nam</h3>
 <div align="center">
+  <a href="https://app.daily.dev/andrewquang0512"><img src="https://api.daily.dev/devcards/v2/olI1JDpDahlK1qxmTV8Qv.png?type=default&r=kgg" width="30%" align="right" alt="AndrewQuang's Dev Card"/></a>
 </div>
 <br>
-<img src="https://api.daily.dev/devcards/bc0eba0dadb948408deb1a099be3c3ec.png?r=hlx" width="25%" align="right" alt="AndrewQuang's Dev Card"/>
-  
+
+<br>
 -  🌱 I love to research everything about science
 
 -  📫 How to reach me **andrew.viquang@gmail.com** <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="andrew quang" />
@@ -12,8 +13,13 @@
 -  👯 I’m looking to collaborate on Projects,Tech Articles 
 
 - ✍ I'm also a blogger who love to write and share what i've learned to everyone. Check out my blog: [Viblo](https://viblo.asia/u/viquang) or [Medium](https://medium.com/@andrew.viquang)
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2 align="left">Connect with me: ></h2>
+
 <p align="left">
 <a href="https://medium.com/@andrew.viquang" target="blank">
   <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="andrew quang" />
