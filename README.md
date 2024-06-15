@@ -15,6 +15,8 @@
 -  👯 I’m looking to collaborate on Projects,Tech Articles 
 
 - ✍ I'm also a blogger who love to write and share what i've learned to everyone. Check out my blog: [Viblo](https://viblo.asia/u/viquang) or [Medium](https://medium.com/@andrew.viquang)
+
+- 🕹 My favorite game of all time is Maplestory
   
 </p>
 <br>
