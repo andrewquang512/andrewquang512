@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vi Quang </h1>
 <div align="center">
-  <a href="https://app.daily.dev/andrewquang0512"><img src="https://api.daily.dev/devcards/v2/olI1JDpDahlK1qxmTV8Qv.png?type=default&r=kgg" width="30%" align="right" alt="AndrewQuang's Dev Card"/></a>
+  <a href="https://app.daily.dev/andrewquang0512"><img src="https://api.daily.dev/devcards/v2/olI1JDpDahlK1qxmTV8Qv.png?type=default&r=kgg" width="30%" height="20%" align="right" alt="AndrewQuang's Dev Card"/></a>
 </div>
 <br>
 
@@ -12,10 +12,12 @@
 -  📫 How to reach me **andrew.viquang@gmail.com** <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="andrew quang" />
 
 -  👯 I’m looking to collaborate on Projects,Tech Articles
--  
+
 - 🕹 My favorite game of all time is Maplestory
   
 </p>
+<br>
+<br>
 <br>
 <br>
 <br>
